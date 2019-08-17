@@ -83,14 +83,16 @@ alias firefox='start firefox'
 
 #git
 alias gc='git clone'
+alias gi='git init'
+alias gs='git status'
 alias ga='git add'
 alias gaa='git add .'
 alias gcm='git commit'
 alias gp='git push -u'
 alias gb='git branch'
 alias gco='git checkout'
-alias gs='git stash'
-alias gsl='git stash list'
+alias gstash='git stash'
+alias gstashl='git stash list'
 
 #npm
 alias nr='npm run'
